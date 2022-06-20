@@ -21,3 +21,5 @@ if guess == number:
     print('You guessed!!!🤗🤗🤗 the number guessed in ' + str(num_of_guesses) + ' tries!')
 else:
     print('You did not guess the number 😢😢😢😢, The number was ' + str(number))
+    
+#     ~AkD~
